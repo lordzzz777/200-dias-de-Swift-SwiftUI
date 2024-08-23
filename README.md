@@ -1,6 +1,6 @@
 ![Rieami200Swift2](https://github.com/kontroldev/200-dias-de-Swift-SwiftUI/assets/75795616/5ada2d7a-323a-48cb-91ec-d4025a1e8d8f)
 
-# Bienvenidos a los 200 días de Swift & SwiftUI👋
+# Bienvenidos a los 100 días de Swift & SwiftUI👋
 
 ## Dinámica de la Actividad
 La dinámica de esta actividad consiste en estudiar 1 hora al día durante 200 días, utilizando los diversos recursos proporcionados por la comunidad y aquellos que se adapten mejor a tus necesidades de formación. Necesitarás las herramientas de Xcode si tienes un Mac o Visual Studio y la extensión de Swift si estás utilizando Windows. Además, se requiere una cuenta de GitHub (puedes crear una [aquí]).(https://github.com)).
